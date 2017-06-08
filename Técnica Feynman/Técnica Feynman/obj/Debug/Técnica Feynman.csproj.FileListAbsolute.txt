@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\bin\Debug\Técnica Feynman.exe.config
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\bin\Debug\Técnica Feynman.exe
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\bin\Debug\Técnica Feynman.pdb
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica Feynman.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica_Feynman.Form1.resources
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica_Feynman.Form2.resources
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica_Feynman.Form3.resources
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica_Feynman.Form4.resources
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica_Feynman.Form5.resources
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica_Feynman.Form6.resources
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica_Feynman.Properties.Resources.resources
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica Feynman.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica Feynman.exe
+C:\Users\Felipe\Desktop\Técnica Feynman\Técnica Feynman\obj\Debug\Técnica Feynman.pdb
